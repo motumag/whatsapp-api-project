@@ -10,3 +10,4 @@ Steps to run the project
 8. python manage.py makemigrations =>make migration to database
 9. python manage.py migrate => Migrate to DB
 10. python manage.py runserver => to run the application
+11. http://localhost:8000/swagger/ => to get swagger documentation
