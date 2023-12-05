@@ -1,5 +1,7 @@
 Steps to run the project
-
+For DB users:
+user admin: admin
+password: admin123
 1. git clone https://github.com/motumag/whatsapp-api-project.git
 2. cd WhatsApp folder and run the bellow command
 3. python -m venv venv =>to create a vertual environment 
